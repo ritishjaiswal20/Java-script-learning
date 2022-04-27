@@ -6,9 +6,9 @@ var vname;
 console.log(vname); // it will print undefined
 
 // const cname;
-// console.log(lname); // it will give yopu error aas we can not do the same thing with const
+// console.log(lname); // itor aas we can not do the same thing with const
 
-//NULL
+//NULL will give yopu err
 let myvariable = null;
 console.log(myvariable, typeof myvariable); // it will print null and object(because it is a bug** in javascript)
 myvariable = "ritish";
